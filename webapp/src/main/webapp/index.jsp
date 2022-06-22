@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> lagana karti ka vatne </h1>
+   <h1> wada paw khawa khush rahava </h1>
 
   
 </form>

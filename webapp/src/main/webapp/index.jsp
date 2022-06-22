@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> bhai tu bhai tu fikar na kar </h1>
+   <h1> rada rada </h1>
 
   
 </form>

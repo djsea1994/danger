@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> wada paw khawa khush rahava </h1>
+   <h1> pohe khava </h1>
 
   
 </form>

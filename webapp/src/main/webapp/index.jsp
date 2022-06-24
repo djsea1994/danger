@@ -31,7 +31,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> ASTA KA PISTA BABY SANDEEEEEEEEEEEEE </h1>
+   <h1> TUM 
+         HO
+          SATH
+           MERE</h1>
 
   
 </form>

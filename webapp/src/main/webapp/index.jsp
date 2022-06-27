@@ -31,10 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> TUM 
-         HO
-          SATH
-           MERE</h1>
+   <h1> [[TUM HO KI NHI TUM HO KI NHI</h1>
 
   
 </form>

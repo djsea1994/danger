@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>PARTY TOH BANTI HAI ........................................................</h1>
+   <h1>PARTY TOH BANTI HAI ...................de kiiiiiiii         party         lavdu.....................................</h1>
 
   
 </form>
